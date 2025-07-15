@@ -1,7 +1,8 @@
 
 
 def main() -> None:
-    print("hello world")
+    print("hello world frogs")
+    print("hello world toads")
 
 
 if __name__ == "__main__":
